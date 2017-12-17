@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RecyclerView Context Leaks</string>
+    <plurals name="apple">
+        <item quantity="one">%d apple</item>
+        <item quantity="other">%d apples</item>
+    </plurals>
+    <plurals name="orange">
+        <item quantity="one">%d orange</item>
+        <item quantity="other">%d oranges</item>
+    </plurals>
+    <plurals name="watermelon">
+        <item quantity="one">%d watermelon</item>
+        <item quantity="other">%d watermelons</item>
+    </plurals>
+</resources>
